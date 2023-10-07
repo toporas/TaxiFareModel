@@ -1,8 +1,6 @@
 # Data analysis
 - Name: TaxiFareModel
 - Description: Project Description
-- Data Source:
-- Type of analysis:
 
 
 # Startup the project
